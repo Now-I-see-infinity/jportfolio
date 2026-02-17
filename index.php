@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joseph Muthike's - Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">
+                <a href="index.php"><i class="fas fa-code"></i> Joseph Ndiritu</a>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.php" class="active">Home</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="projects.php">Projects</a></li>
+                <li><a href="contact.php">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Hi, I'm Joseph</h1>
+            <p class="hero-subtitle">Full Stack Developer & Creative Thinker</p>
+            <p class="hero-description">I create beautiful, responsive websites and web applications that solve real problems.</p>
+            <div class="hero-buttons">
+                <a href="projects.php" class="btn btn-primary">View My Work</a>
+                <a href="contact.php" class="btn btn-secondary">Get In Touch</a>
+            </div>
+            <div class="social-links">
+                <a href="#" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
+    </section>
+
+    <section class="featured-projects">
+        <div class="container">
+            <h2>Featured Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-image" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"></div>
+                    <h3>E-Commerce Platform</h3>
+                    <p>A full-featured e-commerce platform with payment integration and admin dashboard.</p>
+                    <div class="tech-stack">
+                        <span>React</span>
+                        <span>Node.js</span>
+                        <span>MongoDB</span>
+                    </div>
+                    <a href="projects.php" class="project-link">Learn More →</a>
+                </div>
+                <div class="project-card">
+                    <div class="project-image" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);"></div>
+                    <h3>Task Management App</h3>
+                    <p>A collaborative task management tool with real-time updates and team features.</p>
+                    <div class="tech-stack">
+                        <span>Vue.js</span>
+                        <span>Firebase</span>
+                        <span>Tailwind CSS</span>
+                    </div>
+                    <a href="projects.php" class="project-link">Learn More →</a>
+                </div>
+                <div class="project-card">
+                    <div class="project-image" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);"></div>
+                    <h3>Weather Dashboard</h3>
+                    <p>A real-time weather application with location-based forecasting and beautiful UI.</p>
+                    <div class="tech-stack">
+                        <span>JavaScript</span>
+                        <span>API Integration</span>
+                        <span>CSS3</span>
+                    </div>
+                    <a href="projects.php" class="project-link">Learn More →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="skills">
+        <div class="container">
+            <h2>Skills & Technologies</h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3>Frontend</h3>
+                    <ul>
+                        <li>HTML5 & CSS3</li>
+                        <li>JavaScript (ES6+)</li>
+                        <li>React & Vue.js</li>
+                        <li>Responsive Design</li>
+                    </ul>
+                </div>
+                <div class="skill-category">
+                    <h3>Backend</h3>
+                    <ul>
+                        <li>Node.js & Express</li>
+                        <li>PHP & Laravel</li>
+                        <li>REST APIs</li>
+                        <li>Database Design</li>
+                    </ul>
+                </div>
+                <div class="skill-category">
+                    <h3>Tools & Platforms</h3>
+                    <ul>
+                        <li>Git & GitHub</li>
+                        <li>Docker</li>
+                        <li>AWS & Firebase</li>
+                        <li>VS Code</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Joseph Muthike. All rights reserved.</p>
+            <div class="footer-links">
+                <a href="#">Privacy Policy</a>
+                <a href="#">Terms of Service</a>
+                <a href="contact.php">Contact</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
