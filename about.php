@@ -11,7 +11,7 @@
     <nav class="navbar">
         <div class="navbar-container">
             <div class="logo">
-                <a href="index.php"><i class="fas fa-code"></i> Joseph Ndiritu</a>
+                <a href="index.php"><i class="fas fa-code"></i> Joseph Muthike Ndiritu</a>
             </div>
             <ul class="nav-menu">
                 <li><a href="index.php">Home</a></li>
@@ -37,13 +37,13 @@
             <div class="about-grid">
                 <div class="about-content">
                     <h2>Who I Am</h2>
-                    <p>I'm a passionate full-stack developer with 5+ years of experience creating web solutions that combine beautiful design with powerful functionality. My journey in tech started with curiosity and has evolved into a career dedicated to solving complex problems through code.</p>
+                    <p>I'm a full-stack developer with expertise in PHP, C++, HTML, CSS, Java, JavaScript, and Python. I'm passionate about creating robust web applications and solving complex problems through clean, efficient code.</p>
                     
-                    <h3>My Journey</h3>
-                    <p>Starting as a self-taught developer, I quickly realized the importance of continuous learning. I've worked with startups, established companies, and freelance clients, each experience teaching me valuable lessons about user-centric design and scalable architecture.</p>
+                    <h3>My Skills</h3>
+                    <p>My technical toolkit includes backend development with PHP, frontend development with HTML, CSS, and JavaScript, as well as system-level programming with C++ and Java. I also work with Python for various development tasks and automation. I focus on building responsive, user-friendly applications that deliver real value.</p>
                     
-                    <h3>What Drives Me</h3>
-                    <p>I'm driven by the desire to create technology that makes people's lives easier and more productive. Whether it's building intuitive user interfaces or optimizing backend performance, I approach each project with attention to detail and a commitment to excellence.</p>
+                    <h3>Education</h3>
+                    <p>I'm currently studying at Dedan Kimathi University of Technology, pursuing a degree in BBIT (Bachelor of Business Information Technology). This formal education complements my practical development experience and helps me stay current with industry standards and best practices.</p>
                 </div>
                 <div class="about-stats">
                     <div class="stat-item">
@@ -112,28 +112,16 @@
             <h2>Education & Certifications</h2>
             <div class="education-grid">
                 <div class="education-item">
-                    <i class="fas fa-certificate"></i>
-                    <h3>Full Stack Web Development</h3>
-                    <p>Online Code Academy</p>
-                    <p class="year">2019</p>
+                    <i class="fas fa-university"></i>
+                    <h3>BBIT (Bachelor of Business Information Technology)</h3>
+                    <p>Dedan Kimathi University of Technology</p>
+                    <p class="year">Kenya</p>
                 </div>
                 <div class="education-item">
-                    <i class="fas fa-certificate"></i>
-                    <h3>React Advanced Patterns</h3>
-                    <p>Udemy</p>
-                    <p class="year">2021</p>
-                </div>
-                <div class="education-item">
-                    <i class="fas fa-certificate"></i>
-                    <h3>AWS Solutions Architect</h3>
-                    <p>Amazon Web Services</p>
-                    <p class="year">2022</p>
-                </div>
-                <div class="education-item">
-                    <i class="fas fa-certificate"></i>
-                    <h3>Docker & Kubernetes</h3>
-                    <p>Linux Academy</p>
-                    <p class="year">2023</p>
+                    <i class="fas fa-code"></i>
+                    <h3>Full Stack Development</h3>
+                    <p>Self-Taught & Continuous Learning</p>
+                    <p class="year">Ongoing</p>
                 </div>
             </div>
         </div>

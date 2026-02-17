@@ -1,0 +1,13 @@
+* { box-sizing: border-box; }
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f7fb; }
+.app { max-width: 1000px; margin: 20px auto; padding: 20px; }
+header { text-align: center; margin-bottom: 16px; }
+.controls, .auth { display:flex; gap:8px; justify-content:center; margin-bottom:16px; }
+.board { display:flex; gap:12px; }
+.column { background: white; padding:12px; border-radius:8px; flex:1; min-height:200px; }
+.column h3 { margin-top:0; }
+.list { min-height:100px; }
+.task { background:#f1f5f9; padding:8px; margin-bottom:8px; border-radius:6px; }
+input { padding:8px; border-radius:6px; border:1px solid #ddd; }
+button { padding:8px 12px; border-radius:6px; border:none; background:#667eea; color:white; cursor:pointer; }
+footer { text-align:center; margin-top:18px; color:#777; }

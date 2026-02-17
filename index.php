@@ -11,7 +11,7 @@
     <nav class="navbar">
         <div class="navbar-container">
             <div class="logo">
-                <a href="index.php"><i class="fas fa-code"></i> Joseph Ndiritu</a>
+                <a href="index.php"><i class="fas fa-code"></i> Joseph Muthike Ndiritu</a>
             </div>
             <ul class="nav-menu">
                 <li><a href="index.php" class="active">Home</a></li>
@@ -35,11 +35,11 @@
             <div class="hero-buttons">
                 <a href="projects.php" class="btn btn-primary">View My Work</a>
                 <a href="contact.php" class="btn btn-secondary">Get In Touch</a>
+                <a href="Joseph CV.docx" download class="btn btn-secondary">View CV</a>
             </div>
             <div class="social-links">
-                <a href="#" target="_blank"><i class="fab fa-github"></i></a>
-                <a href="#" target="_blank"><i class="fab fa-linkedin"></i></a>
-                <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a href="https://github.com/Now-I-see-infinity" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/joseph-ndiritu-b838b635a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
             </div>
         </div>
     </section>
@@ -94,26 +94,25 @@
                     <ul>
                         <li>HTML5 & CSS3</li>
                         <li>JavaScript (ES6+)</li>
-                        <li>React & Vue.js</li>
                         <li>Responsive Design</li>
                     </ul>
                 </div>
                 <div class="skill-category">
                     <h3>Backend</h3>
                     <ul>
-                        <li>Node.js & Express</li>
-                        <li>PHP & Laravel</li>
-                        <li>REST APIs</li>
-                        <li>Database Design</li>
+                        <li>PHP</li>
+                        <li>Java</li>
+                        <li>C++</li>
+                        <li>Python</li>
                     </ul>
                 </div>
                 <div class="skill-category">
                     <h3>Tools & Platforms</h3>
                     <ul>
                         <li>Git & GitHub</li>
-                        <li>Docker</li>
-                        <li>AWS & Firebase</li>
                         <li>VS Code</li>
+                        <li>MySQL & Database Design</li>
+                        <li>Web Development</li>
                     </ul>
                 </div>
             </div>
