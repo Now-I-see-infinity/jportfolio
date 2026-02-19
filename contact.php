@@ -11,7 +11,7 @@
     <nav class="navbar">
         <div class="navbar-container">
             <div class="logo">
-                <a href="index.php"><i class="fas fa-code"></i> Joseph Muthike Ndiritu</a>
+                <a href="index.php"><img src="profile.png" alt="Logo" class="logo-img"> Joseph Muthike Ndiritu</a>
             </div>
             <ul class="nav-menu">
                 <li><a href="index.php">Home</a></li>
